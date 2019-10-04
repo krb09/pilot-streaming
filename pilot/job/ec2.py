@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import boto3
-boto3.setup_default_session(profile_name='dev')
+##boto3.setup_default_session(profile_name='dev')
 import os
 import math
 import uuid
